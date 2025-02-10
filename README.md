@@ -1,6 +1,6 @@
 ## Descrição:
 
-- Baixa vídeos e áudios do Youtube
+- Baixa vídeos e áudios do Youtube.
 
 ## Autores:
 
