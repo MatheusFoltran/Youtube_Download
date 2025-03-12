@@ -5,7 +5,6 @@ def download(url, out_path, audio_only=True):
     ydl_opts = {
         'outtmpl': os.path.join(out_path, '%(title)s.%(ext)s'),
         'quiet': False,
-        'ffmpeg_location': "D:/USUARIO/Matheus/ffmpeg/ffmpeg-master-latest-win64-gpl/bin",  # Caminho específico do FFmpeg
     }
     
     if audio_only:
